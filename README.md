@@ -23,3 +23,6 @@ By incorporating these fonts into this project, I affirm that:
 - The fonts are used solely within the scope permitted by their licenses.
 
 This attribution is provided to ensure transparency and respect for the intellectual property of the font creators.
+
+# "Anaosei" font
+Originally, the "Anaosei" font was created by me alone using *fontstruct*, and it is under the Fontstruct public license: it can be shared, modified and used if given the rights to its original creator.
